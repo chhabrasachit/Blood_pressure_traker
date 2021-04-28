@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hintFirstName"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextDiastolic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hintLastName"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/editTextSystolic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hintLast1Name"
+        android:inputType="textPersonName" />
+
+    <Spinner
+        android:id="@+id/spinnerSchool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/schools" />
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnUpdate" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnDelete" />
+
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BloodPressureTracker</string>
+    <string name="systolic_hint">Enter the systolic reading</string>
+    <string name="diastolic_hint">Enter diastolic reading</string>
+    <string name="diagnose_button">Diagnose</string>
+    <string name="category_heading">Blood Pressure Category</string>
+    <string name="input_error">Input fields must contain numbers</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="record_time">Date/Time of Record</string>
+    <string name="hintFirstName">Name</string>
+    <string name="hintLastName">Diastolic</string>
+    <string name="hintLast1Name">Systolic</string>
+    <string name="btnAddStudent">Add Patient</string>
+    <string name="enterNewName">Enter New Name</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+
+
+    <string-array name="schools">
+        <item>Normal BP</item>
+        <item>Elevated BP</item>
+        <item>High BP (Stage 1))</item>
+        <item>High BP (Stage 2))</item>
+        <item>Hypertensive Crisis</item>
+    </string-array>
+
+
+</resources>

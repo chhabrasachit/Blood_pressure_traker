@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326295281887",
+    "firebase_url": "https://singarachhabra.firebaseio.com",
+    "project_id": "singarachhabra",
+    "storage_bucket": "singarachhabra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326295281887:android:4445535e34aae63c42896a",
+        "android_client_info": {
+          "package_name": "com.example.singara_chhabra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326295281887-l815h4hqanhk9acgm1at5gf3g2suppbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.singara_chhabra",
+            "certificate_hash": "4ef105072a131362041c05abfaa7e487713777ed"
+          }
+        },
+        {
+          "client_id": "326295281887-046322ovbf71tgkaufeasc5328if1578.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoghNw_wlww96GCfowpNDlkWXUldUfLfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326295281887-046322ovbf71tgkaufeasc5328if1578.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
